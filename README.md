@@ -6,6 +6,8 @@ From Leetcode, page:
 
 https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?source=submission-noac
 
+Note - my code solution passes on the Leetcode page.
+
 Given a string s, find the length of the longest substring without repeating characters.
 
  
